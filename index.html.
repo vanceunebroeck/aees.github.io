@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Web en GitHub</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px; background: #f4f4f4; }
+        h1 { color: #333; }
+        p { color: #666; }
+    </style>
+</head>
+<body>
+    <h1>¡Hola mundo! Esta es mi web gratis</h1>
+    <p>Creada con GitHub Pages.</p>
+</body>
+</html>
